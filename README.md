@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ataberk Adalı</h1>
 <h3 align="center">I am a passionate Unity game developer.</h3>
-
+<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ataberk-adal%C4%B1-9a7127180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ataberk-adal%c4%b1-9a7127180/" height="30" width="40" /></a>
