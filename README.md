@@ -1,4 +1,3 @@
-[![Masterhead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)(https://github.com/AtaberkAdali)
 <h1 align="center">Hi 👋, I'm Ataberk Adalı</h1>
 <h3 align="center">I am a passionate Unity game developer.</h3>
      
